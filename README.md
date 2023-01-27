@@ -13,7 +13,7 @@ Tenho estudado programação a pouco mais de um ano, domínio de React, Express,
 * 🚀  I'm currently working on [BetPlay - Apostas](http://betplays.netlify.app/)
 * 🧠  I'm learning Nextjs, Nestjs, GrathQL e Typescript
 * 🤝  I'm open to collaborating on Projetos front end e back end MERN stack
-* ⚡  Eu sou o Hulk, mas não fico verde nem meus músculos crescemquando estou com raiva.
+* ⚡  Eu sou o Hulk, mas não fico verde e nem meus músculos crescem quando estou com raiva.
 
 <a href="https://www.github.com/jeffersondrs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jeffersondrs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
