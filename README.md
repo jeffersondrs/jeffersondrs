@@ -8,9 +8,9 @@ Desenvolvedor Full Stack
 Tenho estudado programação a pouco mais de um ano, domínio de React, Express, mongoDb e Nodejs intermediário e JavaScript avançado. Buscando sempre evoluir e crescer profissionalmente, todos os dias me dedico um pouco mais e quero ir além, o céu não é o limite.
 
 * 🌍  I'm based in Itaguaí/RJ
-* 🖥️  See my portfolio at [Meu portifólio](https://jeffersondrs.netlify.app/)
+* 🖥️  See my portfolio at [Meu portifólio](In_soon)
 * ✉️  You can contact me at [jeffersonduarte@id.uff.br](mailto:jeffersonduarte@id.uff.br)
-* 🚀  I'm currently working on [BetPlay - Apostas](http://betplays.netlify.app/)
+* 🚀  I'm currently working on [Agency Tech](https://agencytech.com.br/)
 * 🧠  I'm learning Nextjs, Nestjs, GrathQL e Typescript
 * 🤝  I'm open to collaborating on Projetos front end e back end MERN stack
 * ⚡  Eu sou o Hulk, mas não fico verde e nem meus músculos crescem quando estou com raiva.
