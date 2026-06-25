@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jefferson Santos
+# Jefferson Duarte
 
 **Full Stack Developer**
 
